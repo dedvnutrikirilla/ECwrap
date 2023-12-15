@@ -1,4 +1,4 @@
-package ECwrap
+package main
 
 import (
 	"math/big"
